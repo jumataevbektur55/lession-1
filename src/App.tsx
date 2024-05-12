@@ -52,7 +52,6 @@ const App = () => {
 			setLoading(false)
 		}
 	}
-	console.log("hellow world" ,"awefawefawef");
 	
 	return (
 		<div>
