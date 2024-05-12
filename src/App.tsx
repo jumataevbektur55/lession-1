@@ -52,6 +52,8 @@ const App = () => {
 			setLoading(false)
 		}
 	}
+	console.log("hellow world");
+	
 	return (
 		<div>
 			<div className='container'>
